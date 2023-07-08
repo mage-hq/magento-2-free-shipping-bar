@@ -1,5 +1,5 @@
 # magento-2-free-shipping-bar
-B2B registration form helps e-commerce stores to optimize the registration process of B2B customers, an additional feature for Magento 2 that allows store owners to customize customer registration forms to collect customer information more efficiently . This feature will give administrators the ability to approve or deny B2B customer subscriptions
+Magento 2 Free Shipping Bar extension helps you to encourage customers to purchase more products and enjoy free shipping on their order. You just need to enter the hint information, and a prompt of the offer will appear on your website.
 
 Please go to https://magehq.com/magento-2-free-shipping-bar.html buy extension
 
